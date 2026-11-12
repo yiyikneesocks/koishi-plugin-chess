@@ -9,14 +9,20 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
-    "koishi": "^4.17.9"
+    "koishi": "^4.18.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiyikneesocks/koishi-plugin-chess.git"
+  },
+  "homepage": "https://github.com/yiyikneesocks/koishi-plugin-chess#readme",
+  "bugs": {
+    "url": "https://github.com/yiyikneesocks/koishi-plugin-chess/issues"
   }
 }
